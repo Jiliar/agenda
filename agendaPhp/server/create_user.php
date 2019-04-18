@@ -17,14 +17,14 @@
                          ],
                          [
                                'email' => "'mariaballestas@gmail.com'",
-                               'nombre' => "'MARIA BALLESTAS RIVERA'",
-                               'psw' => "'".password_hash('maria', PASSWORD_DEFAULT)."'",
+                               'nombre' => "'MARIA PUERTA SALAS'",
+                               'psw' => "'".password_hash('mpuerta', PASSWORD_DEFAULT)."'",
                                'fecha_nacimiento' => "'1990-05-11'",
                          ],
                          [
                                'email' => "'soniaguerrero@email.com'",
-                               'nombre' => "'SONIA GUERRERO PUELLO'",
-                               'psw' => "'".password_hash('sonia', PASSWORD_DEFAULT)."'",
+                               'nombre' => "'JILIAR SILGADO CARDONA'",
+                               'psw' => "'".password_hash('jsilgado', PASSWORD_DEFAULT)."'",
                                'fecha_nacimiento' => "'1990-05-12'",
                          ]
               ];             
